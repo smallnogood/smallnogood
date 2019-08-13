@@ -33,7 +33,7 @@ public class HepBook {
 
     static Logger log = Logger.getLogger(HepBook.class.getName());
 
-    private final static String baseURL = "http://47.93.239.69";
+    private final static String baseURL = "http://xxxxx";
 
     private final static String POSTURL = baseURL + "/xpe/hep/service/sync/getPostData";
     private final static String POSTURL1 = baseURL + "/xpe/hep/service/sync/getPostData1";
